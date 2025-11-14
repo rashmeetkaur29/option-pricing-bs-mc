@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 # Option Pricing with Black–Scholes and Monte Carlo Simulation
 
 This project implements and analyzes two fundamental approaches for pricing European call options:
